@@ -1,0 +1,16 @@
+// TIMER SETTING ACTION TYPES
+export const INCREMENT_BREAK_TIMER = "INCREMENT_BREAK_TIMER";
+export const DECREMENT_BREAK_TIMER = "DECREMENT_BREAK_TIMER";
+
+export const INCREMENT_SESSION_TIMER = "INCREMENT_SESSION_TIMER";
+export const DECREMENT_SESSION_TIMER = "DECREMENT_SESSION_TIMER";
+
+// TIMER ACTION TYPES
+export const START_TIMER = "START_TIMER";
+export const STOP_TIMER = "STOP_TIMER";
+export const RESET_TIMER = "RESET_TIMER";
+export const TICK = "TICK";
+
+// set break length action
+
+// set session length action
